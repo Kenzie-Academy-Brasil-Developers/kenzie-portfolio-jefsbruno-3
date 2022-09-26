@@ -7,7 +7,7 @@ import imgReact from "../public/static/img/stack/react.svg";
 import { FaVuejs } from "react-icons/fa";
 import { SiTypescript } from "react-icons/si";
 import { FaDocker } from "react-icons/fa";
-
+import {RiFileExcel2Fill} from 'react-icons/ri'
 export const stackData = [
   {
     title: "HTML",
@@ -33,7 +33,10 @@ export const stackData = [
     title: "React",
     img: imgReact,
   },
-  { title: "Vuejs", img: FaVuejs },
-  { title: "TypeScript", img: SiTypescript },
-  { title: "Docker", img: FaDocker },
+
+  {
+    title:'Excel',
+    img:RiFileExcel2Fill,
+  }
+  
 ];

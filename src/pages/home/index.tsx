@@ -35,9 +35,9 @@ export const Home = (): JSX.Element => {
               Criando experiências por meio da tecnologia{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
+              Olá tenho 27 anos sou estudante de  Análise e desenvolvimento de sistemas na faculdae Impacta Tecnologia e curso programação na Kenzie Academy Brasil , participei
               de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+              desenvolvendo hards e softs skills.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
